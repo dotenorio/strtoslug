@@ -1,7 +1,7 @@
 StrToSlug
 =========
 
-Um conversor de *string* para *slug* em _PHP_ + _Boostrap Twitter_
+Um conversor de string para slug em PHP + Boostrap Twitter
 
 Exemplo
 -------
@@ -10,11 +10,7 @@ Exemplo
 <?php
 	require_once('strtoslug.php');
 
-	if ( isset($_GET['s']) ) {
-		$string = $_GET['s'];
-	} else {
-		$string = "Digite uma frase!";
-	}
+	$string = "Uma frase com muitos espaços!";
 
 	$slug = new strtoslug($string);
 	$result = $slug->getResult();
