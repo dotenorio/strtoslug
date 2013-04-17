@@ -14,16 +14,6 @@
 
 
 			<div class="page-header">
-				<?php /* <div class="pull-right">
-					<script type="text/javascript">
-						bb_bid = "1629930";
-						bb_lang = "pt-BR";
-						bb_name = "custom";
-						bb_limit = "4";
-						bb_format = "bbd";
-					</script>
-					<script type="text/javascript" src="http://static.boo-box.com/javascripts/embed.js"></script>
-				</div> */ ?>
 				<h1>
 					StrToSlug 
 					<small>Um conversor de string para slug on-line</small>
