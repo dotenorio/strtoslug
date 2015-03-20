@@ -14,5 +14,7 @@ Exemplo
 
 	$slug = new strtoslug($string);
 	$result = $slug->getResult();
+	
+	// uma-frase-com-muitos-espacos
 ?>
 ```
