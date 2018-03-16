@@ -18,8 +18,3 @@ Exemplo
 	// uma-frase-com-muitos-espacos
 ?>
 ```
-
-On-line
--------
-
-http://projetos.dotenorio.com/strtoslug/
